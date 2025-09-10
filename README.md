@@ -218,8 +218,54 @@ Menu sortir menggunakan Collections.sort dengan Comparator agar daftar kontak di
 ```
 
 ## Output Program Sistem Catatan Kontak
+
 <img width="391" height="187" alt="image" src="https://github.com/user-attachments/assets/44846a0e-8b4c-4dea-9e14-c672a85272bc" />
 
+Tampilan awal ketika program dijalankan akan menampilkan pilihan-pilihan yang tersedia.
+
+
+<img width="358" height="258" alt="image" src="https://github.com/user-attachments/assets/e8c5887e-41c9-45f0-86ca-751824c4f21b" />
+
+Tamapilan ketika memilih opsi yang pertama yaitu menambah kontak, setelah itu sistem akan meminta user untuk memasukkan nama dan nomer hansphone yang inggin ditambahkan.
 
 
 
+<img width="371" height="281" alt="image" src="https://github.com/user-attachments/assets/22cf6bc7-e1c4-491e-b70e-136d42272889" />
+
+Menu kedua adalah melihat kontak yang sudah tersimpan di sistem, ketika memilih opsu 2 maka sistem akan menampilkan kontaknya.
+
+
+
+<img width="529" height="288" alt="image" src="https://github.com/user-attachments/assets/a74aab27-ea1a-4e01-9868-1433ea8a6e5f" />
+
+Menu ketiga adalah mengubah kontak yang sebelumnya sudah dibuat menggunakan menu 1, untuk mengubah kontak yang sudah ada dengan cara memasukkan nama dan kontak baru.
+
+
+
+<img width="525" height="502" alt="image" src="https://github.com/user-attachments/assets/9e1b4e46-5b8d-4b55-8b4d-a382b4bcfebc" />
+
+Menu keempat adalah menghapus kontak yang sudah dibuat dengan cara memasukkan index dari nama dan nomer kontak yang ingin dihapus.
+
+
+
+<img width="361" height="373" alt="image" src="https://github.com/user-attachments/assets/3d3d340c-f987-4dd4-b330-191a04d26cd3" />
+
+Menu kelima adalah untuk mengurutkan nama kontak sesuai dengan abjad yaitu dari A-Z, gambar di atas adalah kondisi sebelum menggunakan menu 5 jadi masih tidak sesuai dengan abjad.
+
+
+
+<img width="349" height="589" alt="image" src="https://github.com/user-attachments/assets/53a2edfc-a054-4c80-8c68-009b942e7e71" />
+
+Ini adalah tampilan ketika nama kontak sudah sesuai urutan abjad, jadi nama kontak akan terurut dan tersusun rapi sesuai abjad.
+
+
+
+<img width="362" height="229" alt="image" src="https://github.com/user-attachments/assets/4fd9408c-c779-4391-9b2a-8f53dfadf22a" />
+
+Menu keenam adalah keluar dari program, jika sudah tidak ada lagi yang ingin dilakukan pada sistem catatan kontak.
+
+
+
+<img width="359" height="456" alt="image" src="https://github.com/user-attachments/assets/cabde741-c405-4b98-bad4-4a98b5041e0e" />
+
+Ini adalah tampilan looping atau perulangan ketika setelah memilih menu 
